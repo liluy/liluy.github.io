@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<meta charset="utf-8">
+        <title>My hello world page</title>
+	</head>
+    <body>
+    	<h1>Hello World!</h1>
+    	<p>I’m Luyuan Li. I am a senior studying Journalism at Indiana University Bloomington.</p> 
+    	<p>Now, I am takin web design class</p>
+    </body>
+</html>
